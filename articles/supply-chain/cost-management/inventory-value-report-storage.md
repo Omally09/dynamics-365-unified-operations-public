@@ -179,7 +179,7 @@ The following example shows how to export an **Inventory value report storage** 
 1. In the **Selected entities** section, select **Add entity**.
 1. In the dialog box that appears, set the following fields:
 
-    - **Entity name** – Select *Inventory value*.
+    - **Entity name** – Select *Inventory value report storage*.
     - **Target data format** – Select the format to export data to.
 
 1. Select **Add** to add the new row, and then select **Close** to close the dialog box.
