@@ -39,6 +39,7 @@ The *Inbound ASN* composite data entities are intended for asynchronous integrat
 
 > [!NOTE]
 > Only the *Inbound ASN V5* data entity supports [inbound shipment orders](wms-only-mode-overview.md). The type of order must be specified as part of the ASN data, which can be either *InboundShipmentOrder* for inbound shipment orders or *Purch* for purchase orders.
+> When using Inbound ASN V5 with Inbound shipment orders, make sure to use the external order number.
 
 ## XML format for importing V3 ASNs
 
